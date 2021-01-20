@@ -7,3 +7,7 @@
 [Competitive Programmer](https://github.com/fralabi/CybergroundCoding/blob/main/ManualiInglese/Competitive%20Programming.pdf) <br>
 [IT] Manuale prodotto da Steven Halim, è arrivato già alla quarta edizione ma solo la [prima](https://cpbook.net/#CP1details) e [seconda](https://cpbook.net/#CP2details) edizione sono libere<br>
 [EN] Manual produced by Steven Halim, it has already reached its fourth edition but only the [first](https://cpbook.net/#CP1details) and the [second](https://cpbook.net/#CP2details) edition are free <br>
+
+[TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)<br>
+[IT] Tutorial riguardo l'implementazione di alcune casi tipici nel Competitive Programming<br>
+[EN] Tutorial about the implementation of some typical cases in Competitive Programming<br>
