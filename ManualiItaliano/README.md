@@ -14,3 +14,6 @@ Era una gara organizzata dall'Università degli Studi di Roma "Tor Vergata" fino
 
 - [LUISSMatics](https://www.luiss.it/admissions/programs-offered/management-and-computer-science/luissmatics) <br>
 E' una gara organizzata dalla Luiss Guido Carli | Libera Università Internazionale degli Studi Sociali di Roma per proseguire la tradizione della competizione GATOR
+
+- [OII](https://github.com/olimpiadi-informatica/oii) <br>
+Soluzioni delle selezioni Territoriali e delle finali Nazionali delle edizioni passate
