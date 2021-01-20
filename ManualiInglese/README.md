@@ -6,4 +6,4 @@
 
 [Competitive Programmer](https://github.com/fralabi/CybergroundCoding/blob/main/ManualiInglese/Competitive%20Programming.pdf) <br>
 [IT] Manuale prodotto da Steven Halim, è arrivato già alla quarta edizione ma solo la [prima](https://cpbook.net/#CP1details) e [seconda](https://cpbook.net/#CP2details) edizione sono libere<br>
-[EN] Manual produced by Steven Halim, it has already reached its fourth edition but only the [first](https://cpbook.net/#CP1details) and [second](https://cpbook.net/#CP2details) edition are free <br>
+[EN] Manual produced by Steven Halim, it has already reached its fourth edition but only the [first](https://cpbook.net/#CP1details) and the [second](https://cpbook.net/#CP2details) edition are free <br>
