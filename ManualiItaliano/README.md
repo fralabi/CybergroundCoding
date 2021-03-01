@@ -4,10 +4,10 @@
 E' una guida scritta da Alessandro Bugatti proprio per le Olimpiadi Italiane di Informatica <br>
 
 [Algoritmo di Dijkstra](https://github.com/fralabi/CybergroundCoding/blob/main/ManualiItaliano/Algoritmo%20di%20Dijkstra.pdf) <br>
-E' una guida che spiega sia dal punto di vista pratico che teorica l'algoritmo di Dijkstra usato nell'ambito dei grafi <br>
+E' una guida che spiega sia dal punto di vista pratico che teorico l'algoritmo di Dijkstra usato nell'ambito dei grafi <br>
 
 [Materiale Didattico Selezione Scolastica](https://github.com/fralabi/CybergroundCoding/tree/main/ManualiItaliano)<br>
-Guida per la Selezione Scolastica delle OII (Olimpiadi di Informatica Individuali) che introduce i diversi tipi di esercizi che possono trovarsi nel testo <br>
+Guida per la Selezione Scolastica delle OII (Olimpiadi di Informatica Individuali) che introduce i diversi tipi di esercizi che possono trovarsi nel test <br>
 
 [Algoritmi Notevoli](https://github.com/fralabi/CybergroundCoding/blob/main/ManualiItaliano/Algoritmi%20notevoli.pdf)<br>
 Principali algoritmi di ordinamento<br>
