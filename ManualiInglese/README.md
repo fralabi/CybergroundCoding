@@ -11,3 +11,7 @@
 [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)<br>
 [IT] Tutorial riguardo l'implementazione di alcune casi tipici nel Competitive Programming<br>
 [EN] Tutorial about the implementation of some typical cases in Competitive Programming<br>
+
+[GeeksForGeeks - Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)
+[IT] Guida completa sugli algoritmi molto utilizzati nel Competitive Programming con esempi in vari linguaggi di Programmazione
+[EN] Complete guide on algorithms widely used in Competitive Programming with examples in various programming languages 
