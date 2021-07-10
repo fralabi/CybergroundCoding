@@ -22,6 +22,11 @@ Reply Code Teen Challenge | 430° su 1973
 ### English Manuals
 English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/ManualiInglese) on competitive programming
 
+## How to start Competitive Coding
+- Pick a language
+- Start with Basic Problems
+- Learn Data Structures and Algorithm
+
 ### Sites to study
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
