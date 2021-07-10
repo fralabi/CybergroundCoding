@@ -42,6 +42,7 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 </p>
 
 [LeetCode](https://leetcode.com/)<br>
+[EN] LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. <br>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" height="100" weight="100" style="align:center">
