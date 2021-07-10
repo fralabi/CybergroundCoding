@@ -21,3 +21,19 @@ Reply Code Teen Challenge | 430° su 1973
 
 ### English Manuals
 English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/ManualiInglese) on competitive programming
+
+### Sites to study
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode](https://leetcode.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### Websites for CodeChallenge
+- [CodeWars](https://www.codewars.com/)
+- [CoderByte](https://www.coderbyte.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [CodinGame](https://www.codingame.com/)
+- [Edabit](https://edabit.com/)
+- [SPOJ](https://www.spoj.com/)
+- [Codeforces](https://codeforces.com/)
+- [Reply Challenges](https://challenges.reply.com/tamtamy/home.action)
