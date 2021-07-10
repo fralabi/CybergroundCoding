@@ -37,8 +37,17 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 [IT] Guida completa sugli algoritmi molto utilizzati nel Competitive Programming con esempi in vari linguaggi di Programmazione<br>
 [EN] Complete guide on algorithms widely used in Competitive Programming with examples in various programming languages<br>
 
-- [LeetCode](https://leetcode.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+<p align="center">
+<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="100" weight="100" style="align:center">
+</p>
+
+[LeetCode](https://leetcode.com/)<br>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" height="100" weight="100" style="align:center">
+</p>
+
+[FreeCodeCamp](https://www.freecodecamp.org/learn/)<br>
 
 ### Websites for CodeChallenge
 - [CodeWars](https://www.codewars.com/)
