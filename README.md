@@ -28,7 +28,15 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 - Learn Data Structures and Algorithm
 
 ### Sites to study
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
+<p align="center">
+<img src="https://github.com/fralabi/images/blob/main/1200px-GeeksforGeeks.svg.png" height="100" weight="100" style="align:center">
+</p>
+
+[GeeksForGeeks - Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)<br>
+[IT] Guida completa sugli algoritmi molto utilizzati nel Competitive Programming con esempi in vari linguaggi di Programmazione<br>
+[EN] Complete guide on algorithms widely used in Competitive Programming with examples in various programming languages<br>
+
 - [LeetCode](https://leetcode.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
@@ -36,7 +44,11 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 - [CodeWars](https://www.codewars.com/)
 - [CoderByte](https://www.coderbyte.com/)
 - [HackerRank](https://www.hackerrank.com/)
-- [TopCoder](https://www.topcoder.com/)
+
+[TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)<br>
+[IT] Tutorial riguardo l'implementazione di alcune casi tipici nel Competitive Programming<br>
+[EN] Tutorial about the implementation of some typical cases in Competitive Programming<br><br>
+
 - [CodinGame](https://www.codingame.com/)
 - [Edabit](https://edabit.com/)
 - [SPOJ](https://www.spoj.com/)
