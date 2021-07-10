@@ -37,3 +37,5 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 - [SPOJ](https://www.spoj.com/)
 - [Codeforces](https://codeforces.com/)
 - [Reply Challenges](https://challenges.reply.com/tamtamy/home.action)
+- [CodeChef](https://www.codechef.com/)
+- [HackerEarth](https://www.hackerearth.com/)
