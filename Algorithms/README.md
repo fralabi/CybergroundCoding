@@ -26,7 +26,7 @@
 - Activity Selection
 
 ### Recursive Algorithm
-- Factorial
+- [Factorial](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Factorial.cpp)
 - Exponential
 - Tree Traversal
 - Tower of Hanoi
