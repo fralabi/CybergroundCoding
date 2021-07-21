@@ -39,7 +39,7 @@
 - Insertion Sort
 - Selection Sort
 - Bubble Sort
-- Merge Sort
+- [Merge Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/MergeSort.cpp)
 - Radix Sort
 - Heap Sort
 - Counting Sort
