@@ -35,7 +35,7 @@
 - Depth First Search
 
 ### Sort Algorithm
-- Quick Sort
+- [Quick Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/QuickSort.cpp)
 - Insertion Sort
 - Selection Sort
 - Bubble Sort
