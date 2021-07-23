@@ -1,12 +1,14 @@
 # Algorithms
 
+## Introduction
+- Computer Algo
+- Big O Notation
+- Recurrence Basics
+- Divide & Conquer
+- Time Complexity function
+- Pseudocode Basics
+
 ## Type of Algorithms
-
-### Brute Force Algorithm
-
-### Recursive Alogorithm
-
-### Divide and Conquer Algorithm
 
 ### Dynamic Programming Algorithm
 - [The Fibonacci Sequence](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/FibonacciSequence.cpp)
@@ -31,8 +33,6 @@
 - Tree Traversal
 - [Tower of Hanoi](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/TowerOfHanoi.cpp)
 - Depth First Search
-
-### Backtracking Algorithm
 
 ### Sort Algorithm
 - Quick Sort
