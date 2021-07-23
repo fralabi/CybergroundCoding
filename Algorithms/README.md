@@ -30,7 +30,7 @@
 ### Recursive Algorithm
 - [Factorial](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Factorial.cpp)
 - [Exponential](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Exponential.cpp)
-- Tree Traversal
+- [Tree Traversal](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/TreeTraversal.cpp)
 - [Tower of Hanoi](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/TowerOfHanoi.cpp)
 - Depth First Search
 
