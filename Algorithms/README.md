@@ -12,7 +12,7 @@
 
 ### Dynamic Programming Algorithm
 - [The Fibonacci Sequence](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/FibonacciSequence.cpp)
-- Dijkstra's Algorithm
+- [Dijkstra's Algorithm](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Dijkstra's%20Algorithm.cpp)
 - Bellman-Ford Algorithm
 - Floyd-Warshall Algorithm
 - Knapsack Problem
