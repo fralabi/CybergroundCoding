@@ -1,66 +1,70 @@
-#include <iostream> 
-#include <list>
+//SOURCE: https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
 
+// C++ program to print DFS
+// traversal for a given given
+// graph
+#include <bits/stdc++.h>
 using namespace std;
 
-//graph class for DFS travesal  
-class DFSGraph { 
-  int V;    // No. of vertices 
-  list<int> *adjList;    // adjacency list 
-  void DFS_util(int v, bool visited[]);  // A function used by DFS 
-  public: 
-    // class Constructor
-    DFSGraph(int V)
-        {
-     this->V = V; 
-     adjList = new list<int>[V]; 
-        }
-  // function to add an edge to graph 
-  void addEdge(int v, int w){
-  adjList[v].push_back(w); // Add w to v’s list
-  }
+class Graph {
 
-  void DFS();    // DFS traversal function 
-}; 
+	// A function used by DFS
+	void DFSUtil(int v);
 
-void DFSGraph::DFS_util(int v, bool visited[]) { 
-  // current node v is visited 
-  visited[v] = true; 
-  cout << v << " "; 
+public:
+	map<int, bool> visited;
+	map<int, list<int>> adj;
+	// function to add an edge to graph
+	void addEdge(int v, int w);
 
-  // recursively process all the adjacent vertices of the node 
-  list<int>::iterator i; 
-  for(i = adjList[v].begin(); i != adjList[v].end(); ++i) 
-  if(!visited[*i]) 
-  DFS_util(*i, visited); 
-} 
-   
-// DFS traversal 
-void DFSGraph::DFS() { 
-  // initially none of the vertices are visited 
-  bool *visited = new bool[V]; 
-  for (int i = 0; i < V; i++) 
-  visited[i] = false; 
+	// prints DFS traversal of the complete graph
+	void DFS();
+};
 
-      // explore the vertices one by one by recursively calling  DFS_util
-  for (int i = 0; i < V; i++) 
-  if (visited[i] == false) 
-  DFS_util(i, visited); 
-} 
-   
-int main() { 
-// Create a graph
-DFSGraph gdfs(5); 
-gdfs.addEdge(0, 1); 
-gdfs.addEdge(0, 2); 
-gdfs.addEdge(0, 3);
-gdfs.addEdge(1, 2); 
-gdfs.addEdge(2, 4);
-gdfs.addEdge(3, 3); 
-gdfs.addEdge(4, 4);
- 
-cout << "Depth-first traversal for the given graph:"<<endl; 
-gdfs.DFS(); 
-   
-return 0; 
+void Graph::addEdge(int v, int w)
+{
+	adj[v].push_back(w); // Add w to v’s list.
 }
+
+void Graph::DFSUtil(int v)
+{
+	// Mark the current node as visited and print it
+	visited[v] = true;
+	cout << v << " ";
+
+	// Recur for all the vertices adjacent to this vertex
+	list<int>::iterator i;
+	for (i = adj[v].begin(); i != adj[v].end(); ++i)
+		if (!visited[*i])
+			DFSUtil(*i);
+}
+
+// The function to do DFS traversal. It uses recursive
+// DFSUtil()
+void Graph::DFS()
+{
+	// Call the recursive helper function to print DFS
+	// traversal starting from all vertices one by one
+	for (auto i:adj)
+		if (visited[i.first] == false)
+			DFSUtil(i.first);
+}
+
+// Driver Code
+int main()
+{
+	// Create a graph given in the above diagram
+	Graph g;
+	g.addEdge(0, 1);
+	g.addEdge(0, 9);
+	g.addEdge(1, 2);
+	g.addEdge(2, 0);
+	g.addEdge(2, 3);
+	g.addEdge(9, 3);
+
+	cout << "Following is Depth First Traversal \n";
+	g.DFS();
+
+	return 0;
+}
+//improved by Vishnudev C
