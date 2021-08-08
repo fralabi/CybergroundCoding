@@ -35,6 +35,7 @@
 - [Depth First Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/DepthFirstSearch.cpp)
 
 ### Sort Algorithm
+- [Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Sort.cpp)
 - [Quick Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/QuickSort.cpp)
 - [Insertion Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Insertion%20Sort.cpp)
 - [Selection Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Selection%20Sort.cpp)
@@ -45,8 +46,10 @@
 - [Counting Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Counting%20Sort.cpp)
 
 ### Search Algorithm
-- Linear Search
-- Binary Search
+- [Linear Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Linear%20Search.cpp)
+- [Binary Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Binary%20Search.cpp)
 - Depth First Search
 - Breadth First Search
 
+### Common Algorithm
+- [isPrime](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/isPrime.cpp)
