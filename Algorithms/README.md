@@ -15,17 +15,17 @@
 - [Dijkstra's Algorithm](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Dijkstra's%20Algorithm.cpp)
 - [Bellman-Ford Algorithm](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Bellman%20Ford%20Algorithm.cpp)
 - Floyd-Warshall Algorithm
-- Knapsack Problem
+- [Knapsack Problem](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Knapsack%20Problem.cpp)
 - Longest Common Subsequence Problem
 - Matrix Chain Multiplication
 - Value Iteration Algorithm
 - [Tower of Hanoi](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/TowerOfHanoi.cpp)
 
 ### Greedy Algorithm
-- Huffman Coding
-- Fractional Knapsack
-- Job Sequencing Problem
-- Activity Selection
+- [Huffman Coding](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Huffman%20Coding.cpp)
+- [Fractional Knapsack](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Fractional%20Knapsack.cpp)
+- [Job Sequencing Problem](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Job%20Sequencing%20Problem.cpp)
+- [Activity Selection](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Activity%20Selection.cpp)
 
 ### Recursive Algorithm
 - [Factorial](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Factorial.cpp)
