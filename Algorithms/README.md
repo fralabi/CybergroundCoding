@@ -36,13 +36,13 @@
 
 ### Sort Algorithm
 - [Quick Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/QuickSort.cpp)
-- Insertion Sort
-- Selection Sort
-- Bubble Sort
+- [Insertion Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Insertion%20Sort.cpp)
+- [Selection Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Selection%20Sort.cpp)
+- [Bubble Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Bubble%20Sort.cpp)
 - [Merge Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/MergeSort.cpp)
-- Radix Sort
-- Heap Sort
-- Counting Sort
+- [Radix Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Radix%20Sort.cpp)
+- [Heap Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Heap%20Sort.cpp)
+- [Counting Sort](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Counting%20Sort.cpp)
 
 ### Search Algorithm
 - Linear Search
