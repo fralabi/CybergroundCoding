@@ -53,3 +53,8 @@
 
 ### Common Algorithm
 - [isPrime](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/isPrime.cpp)
+- [Find](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Find.cpp)
+- [GCD](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/GCD.cpp)
+- [LCM](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/LCM.cpp)
+- [Reverse of Int](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/ReverseInt.cpp)
+- [Sum of digits](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/SumOfDigits.cpp)
