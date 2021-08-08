@@ -2,11 +2,11 @@
 
 ## Introduction
 - Computer Algo
-- Big O Notation
-- Recurrence Basics
-- Divide & Conquer
-- Time Complexity function
-- Pseudocode Basics
+- [Big O Notation](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+- [Recurrence Basics](https://www.geeksforgeeks.org/recursion/)
+- [Divide & Conquer](https://www.geeksforgeeks.org/divide-and-conquer/)
+- [Time Complexity function](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+- [Pseudocode Basics](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
 
 ## Type of Algorithms
 
