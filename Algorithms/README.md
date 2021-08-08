@@ -48,8 +48,8 @@
 ### Search Algorithm
 - [Linear Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Linear%20Search.cpp)
 - [Binary Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/Binary%20Search.cpp)
-- Depth First Search
-- Breadth First Search
+- [Depth First Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/DepthFirstSearch.cpp)
+- [Breadth First Search](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/BreathDepthSearch.cpp)
 
 ### Common Algorithm
 - [isPrime](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/isPrime.cpp)
