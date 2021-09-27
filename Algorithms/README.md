@@ -58,3 +58,4 @@
 - [LCM](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/LCM.cpp)
 - [Reverse of Int](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/ReverseInt.cpp)
 - [Sum of digits](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/SumOfDigits.cpp)
+- [Decimal to Binary](https://github.com/fralabi/CybergroundCoding/blob/main/Algorithms/decToBinary.cpp)
