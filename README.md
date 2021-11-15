@@ -34,7 +34,7 @@ English [manuals](https://github.com/fralabi/CybergroundCoding/tree/main/Manuali
 - Start with Basic Problems
 - Learn Data Structures and Algorithm
 
-### Sites to study
+### Sites to learn
 
 <p align="center">
 <img src="https://github.com/fralabi/images/blob/main/1200px-GeeksforGeeks.svg.png" height="100" weight="100" style="align:center">
