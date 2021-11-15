@@ -9,12 +9,19 @@ Cyberground Coding nasce dall'incontro tra [me](https://fralabi.github.io/) e [C
 
 I ragazzi del nostro team partecipano anche a eventi Google, Reply o su altre piattaforme regolarmente.
 
-I nostri risultati
+## Gare dei prossimi mesi
+- [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode)
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+- [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
+- [COCI](https://hsin.hr/coci/)
+- [Reply Code Teen Challenge](https://challenges.reply.com/tamtamy/challenges/category/coding_teen)
+- [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 
+### I nostri risultati
 GARA | POSIZIONE 
 -----|----------
 OIS 2020/2021 | 4° in Sicilia
-Reply Code Teen Challenge | 430° su 1973
+Reply Code Teen Challenge 2021 | 430° su 1973
 
 ### Manuali in Italiano
 [Manuali](https://github.com/fralabi/CybergroundCoding/tree/main/ManualiItaliano) in Italiano riguardo la programmazione competitiva
