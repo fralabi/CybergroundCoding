@@ -6,11 +6,11 @@ using namespace std;
 void fibonacciSequence (int num) {
   static int first_num = 0, second_num = 1, third_num;
   if(num > 0) {
-  third_num = first_num + second_num;
-  first_num = second_num;
-  second_num = third_num;
-  cout << third_num << endl;
-  fibonacciSequence(num - 1);
+    third_num = first_num + second_num;
+    first_num = second_num;
+    second_num = third_num;
+    cout << third_num << endl;
+    fibonacciSequence(num - 1);
   }
 }
 
